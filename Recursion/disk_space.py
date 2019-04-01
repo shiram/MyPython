@@ -10,4 +10,4 @@ def disk_usage(path):
     print('{0}'.format(total))
 
 if __name__ == '__main__':
-    disk_usage(path="C:/Users/edward.shirambere/Documents")
+    disk_usage(path="YOUR PATH")
